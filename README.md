@@ -1,3 +1,5 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/MichielCuijpers/gospotdl?branch=main)](https://bettercodehub.com/)
+
 # [WIP]GoSpotDl
 A Golang implemetation of spotdl (Python) 
 
